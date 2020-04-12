@@ -1,0 +1,13 @@
+https://github.com/dgraph-io/badger.git
+https://github.com/cilium/cilium.git
+https://github.com/etcd-io/etcd.git
+https://github.com/envoyproxy/go-control-plane.git
+https://github.com/denisenkom/go-mssqldb.git
+https://github.com/coreos/go-systemd.git
+https://github.com/syndtr/goleveldb.git
+https://github.com/open-policy-agent/opa.git
+https://github.com/hashicorp/raft.git
+https://github.com/rqlite/rqlite.git
+https://github.com/hashicorp/serf
+https://github.com/syncthing/syncthing.git
+https://github.com/kubernetes/test-infra.git
